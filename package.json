@@ -1,0 +1,10 @@
+{
+  "name": "com.mirrorspace.camerasystem",
+  "version": "1.0.0",
+  "displayName": "Camera System",
+  "description": "Camera system for the Aetherium project",
+  "unity": "2021.3",
+  "author": {
+    "name": "Rohit Thakur"
+  }
+}
